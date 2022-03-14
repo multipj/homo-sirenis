@@ -10,7 +10,11 @@ export default {
 </script>
 
 <style lang="scss">
-  @import url(//db.onlinewebfonts.com/c/4205c9bb224d820c7ba373ac31387d2c?family=Pistilli);
+  @font-face {
+    font-family: "Pistilli";
+    src: url("@/assets/Pistilli.ttf");
+  }
+
   header {
     background-image: url('@/assets/header.gif');
     background-size: cover;
@@ -19,7 +23,7 @@ export default {
     height: 2.5em;
     color: #fff;
 
-    font-family: 'Pistilli';
+    font-family: "Pistilli";
     padding-top: 100px;
     font-size: 5em;
     font-weight: 500;

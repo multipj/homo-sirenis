@@ -32,6 +32,11 @@ export default {
 </script>
 
 <style lang="scss">
+  @font-face {
+    font-family: "Chaz Condensed";
+    src: url("@/assets/ChazCondensed-Bold.ttf");
+  }
+
 .wrap {
     display: inline-block;
     background-color: rgb(255, 255, 255);
@@ -44,15 +49,10 @@ export default {
 .contain {
   margin: 40px;
 
-  @import url(//db.onlinewebfonts.com/c/d1700e1b6b448748050f017e26446980?family=MrsEavesSmallCaps);
-  @import url(//db.onlinewebfonts.com/c/fa4003152086e52560e24d072de1b92b?family=Chaz+Condensed);
-  @import url(//db.onlinewebfonts.com/c/f05f148ec6596f0b75375fa566aaf1fe?family=Bely);
   h1 {
 
     font-size: 2.6rem;
-    //font-style: italic;
     font-weight: 800;
-    //font-family: "MrsEavesSmallCaps", serif;
     font-family: "Chaz Condensed", serif;
 
     &::first-letter {
