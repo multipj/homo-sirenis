@@ -1,0 +1,55 @@
+body { margin: 0; }
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; 
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); 
+}
+
+/*
+ * @brief clases para espedificar un grid
+ * @class contaner 
+ *
+ */
+
+container {
+  display: block;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 10px;
+  word-break: break-word;
+  
+  &.slim {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0px;
+  }
+}
+  
+.center-y {
+  position: relative;
+  top: 50%;
+  transform: translate(0, -50%)
+}
+  
+  
+ 
+/*
+ * @brief clases para espedificar un grid
+ * @class row
+ *
+ */
+
+  row {
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0px;
+  
+    &.no-gutters {
+      margin-right: 0;
+      margin-right: 0;
+    }
+  }
+  

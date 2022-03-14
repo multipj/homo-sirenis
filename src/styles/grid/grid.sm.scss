@@ -1,0 +1,13 @@
+@media (min-width: 768px) { 
+    #app { 
+        grid-template-columns: repeat(12, calc(100%/12)); 
+        grid-template-rows: [margin-sup] 100px [content] auto [margin-inf] 100px [footer];
+    }
+
+    // 1-1 a 1-12 ... 5-5 a 4-12 ... 12-12
+    @for $i from 1 through 12 {
+        @for $j from 1 through 12-$i+1 { 
+            .sm-#{$i}-#{$i+$j -1} { grid-column: $i / span $j; } 
+        }
+    }
+}

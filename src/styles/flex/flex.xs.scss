@@ -1,0 +1,55 @@
+@media (min-width: 0px) { 
+    container { min-width: auto; width: auto; }
+    column {
+        display: flex;
+        position: relative;
+        min-height: 1px;
+
+        &.center-y { align-items: center; }
+        &.center-x { justify-content: center; }
+
+        &.xs-4  { width: calc(400%/4); }
+        &.xs-3  { width: calc(300%/4); }
+        &.xs-2  { width: calc(200%/4); }
+        &.xs-1  { width: calc(100%/4); }
+
+        &.xs-offset-4  { margin-left: calc(400%/4); }
+        &.xs-offset-3  { margin-left: calc(300%/4); }
+        &.xs-offset-2  { margin-left: calc(200%/4); }
+        &.xs-offset-1  { margin-left: calc(100%/4); }
+
+        //&.xs-12 { width: 100%; }
+        //&.xs-11 { width: calc(1100%/12); }
+        //&.xs-10 { width: calc(1000%/12); }
+        //&.xs-9  { width: calc(900%/12); }
+        //&.xs-8  { width: calc(800%/12); }
+        //&.xs-7  { width: calc(700%/12); }
+        //&.xs-6  { width: calc(600%/12); }
+        //&.xs-5  { width: calc(500%/12); }
+        //&.xs-4  { width: calc(400%/12); }
+        //&.xs-3  { width: calc(300%/12); }
+        //&.xs-2  { width: calc(200%/12); }
+        //&.xs-1  { width: calc(100%/12); }
+
+        //&.xs-offset-12 { margin-left: 100%; }
+        //&.xs-offset-11 { margin-left: calc(1100%/12); }
+        //&.xs-offset-10 { margin-left: calc(1000%/12); }
+        //&.xs-offset-9  { margin-left: calc(900%/12); }
+        //&.xs-offset-8  { margin-left: calc(800%/12); }
+        //&.xs-offset-7  { margin-left: calc(700%/12); }
+        //&.xs-offset-6  { margin-left: calc(600%/12); }
+        //&.xs-offset-5  { margin-left: calc(500%/12); }
+        //&.xs-offset-4  { margin-left: calc(400%/12); }
+        //&.xs-offset-3  { margin-left: calc(300%/12); }
+        //&.xs-offset-2  { margin-left: calc(200%/12); }
+        //&.xs-offset-1  { margin-left: calc(100%/12); }
+    }
+}
+
+/*@media (min-width: 384px) and (max-width: 768px) { 
+    container { min-width: auto; width: auto; }
+}
+
+@media (min-width: 0px) and (max-width: 384px) { 
+    container { width: 200%; }
+}*/

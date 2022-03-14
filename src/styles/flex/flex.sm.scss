@@ -1,0 +1,37 @@
+@media (min-width: 768px) { // sm, width: 750px;
+    container { min-width: auto; }
+    column {
+        display: flex;
+        position: relative;
+        min-height: 1px;
+
+        &.center-y { align-items: center; }
+        &.center-x { justify-content: center; }
+
+        &.sm-12 { width: 100%; }
+        &.sm-11 { width: calc(1100%/12); }
+        &.sm-10 { width: calc(1000%/12); }
+        &.sm-9  { width: calc(900%/12); }
+        &.sm-8  { width: calc(800%/12); }
+        &.sm-7  { width: calc(700%/12); }
+        &.sm-6  { width: calc(600%/12); }
+        &.sm-5  { width: calc(500%/12); }
+        &.sm-4  { width: calc(400%/12); }
+        &.sm-3  { width: calc(300%/12); }
+        &.sm-2  { width: calc(200%/12); }
+        &.sm-1  { width: calc(100%/12); }
+
+        &.sm-offset-12 { margin-left: 100%; }
+        &.sm-offset-11 { margin-left: calc(1100%/12); }
+        &.sm-offset-10 { margin-left: calc(1000%/12); }
+        &.sm-offset-9  { margin-left: calc(900%/12); }
+        &.sm-offset-8  { margin-left: calc(800%/12); }
+        &.sm-offset-7  { margin-left: calc(700%/12); }
+        &.sm-offset-6  { margin-left: calc(600%/12); }
+        &.sm-offset-5  { margin-left: calc(500%/12); }
+        &.sm-offset-4  { margin-left: calc(400%/12); }
+        &.sm-offset-3  { margin-left: calc(300%/12); }
+        &.sm-offset-2  { margin-left: calc(200%/12); }
+        &.sm-offset-1  { margin-left: calc(100%/12); }
+    }
+}
