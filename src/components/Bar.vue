@@ -1,6 +1,8 @@
 <template>
   <div class="bar-top">
-    <div class="dice"/>
+    <router-link to="/" tag="button">
+      <div class="dice"/>
+    </router-link>
   </div>
 </template>
 
@@ -23,7 +25,7 @@ export default {
     top: 0;
     transition: 1s linear;
     width: 100%;
-    z-index: 99999999999!important;
+    z-index: 2!important;
     backdrop-filter: blur(10px);
     display: flex;
     justify-content: center;

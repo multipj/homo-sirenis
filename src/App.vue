@@ -17,6 +17,21 @@ export default {
 @import "@/styles/grid/grid.lg.scss";
 @import "@/styles/grid/grid.default.scss";
 
+@font-face {
+  font-family: "Chaz Condensed";
+  src: url("@/assets/ChazCondensed-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Beaufort";
+  src: url("@/assets/BeaufortforLOL-Bold.woff");
+}
+
+@font-face {
+  font-family: "Spiegel";
+  src: url("@/assets/Spiegel.ttf");
+}
+
 body {
   background: #0a0a0a;
 }
@@ -67,6 +82,44 @@ a {
   }
 }
 
+// cosas supuestamente de home
+@media (min-width:   0px) { .home { column-count: 1; } }
+@media (min-width: 768px) { .home { column-count: 2; } }
+
+.home {
+  img {
+    width: 50%;
+    float: left;
+    margin: 0px 15px 15px 0px;
+  }
+}
+
+.wrap {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    grid-row-start: content;
+    border-radius: 0rem;
+    min-height: 100px;
+    word-break: break-word;
+}
+
+.contain {
+  margin: 40px;
+
+  h1 {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 2.3rem;
+    font-weight: 800;
+    text-shadow: 0px 0.5px, 0.5px 0px, 0.5px 0.5px;
+    font-family: "Beaufort", serif;
+
+    &::first-letter {
+      font-size: 2.6rem;
+      font-weight: bold;
+    }
+  }
+}
 
 
 </style>
