@@ -32,7 +32,7 @@ export default {
     border: 1px solid #a2a9b1;
     width: fit-content;
     padding: 0px 20px 0px 0px;
-    margin: 15px 0px;
+    margin-bottom: 20px;
 }
 
 .indice a:hover {
@@ -41,6 +41,13 @@ export default {
     background: #8c9aa4;
     padding: 2px 5px;
     border-radius: 5px;
+}
+
+@media (min-width: 700px) { 
+    .indice {
+        float: left;
+        margin-right: 25px;
+    }
 }
 
 .indice a {

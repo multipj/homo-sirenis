@@ -1,7 +1,7 @@
 <template>
   <div class="bar-top">
     <router-link to="/" tag="button">
-      <div class="dice"/>
+      <div class="dice" title="atrás"/>
     </router-link>
   </div>
 </template>

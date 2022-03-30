@@ -1,4 +1,4 @@
-@media (min-width: 768px) { 
+@media (min-width: 768px) and (max-width: 991px) { 
     #app { 
         grid-template-columns: repeat(12, calc(100%/12)); 
         grid-template-rows: [margin-sup] 100px [content] auto [margin-inf] 100px [footer];

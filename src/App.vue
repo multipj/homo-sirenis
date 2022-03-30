@@ -83,16 +83,17 @@ a {
 }
 
 // cosas supuestamente de home
-@media (min-width:   0px) { .home { column-count: 1; } }
-@media (min-width: 768px) { .home { column-count: 2; } }
-
-.home {
+@media (min-width:   0px) { .setp { column-count: 1; } }
+@media (min-width: 768px) { .setp { column-count: 2; } }
+.setp {
   img {
     width: 50%;
     float: left;
     margin: 0px 15px 15px 0px;
   }
 }
+
+
 
 .wrap {
     display: inline-block;
@@ -119,6 +120,18 @@ a {
       font-weight: bold;
     }
   }
+}
+
+.button-back {
+  background: #000;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 5px;
+  padding: 10px 10px 10px 14px;
+  font-size: 11px;
+  letter-spacing: 2.5px;
+  position: relative;
+  top: 15px;
 }
 
 

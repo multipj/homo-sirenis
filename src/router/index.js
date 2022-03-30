@@ -14,7 +14,7 @@ const routes = [
   {
     path: '/respiratory-system',
     name: 'Aparato respiratorio',
-    component: () => import('../views/Breath.vue')
+    component: () => import('../views/Respiratory.vue')
   },
   {
     path: '/circulatory-system',
@@ -24,37 +24,37 @@ const routes = [
   {
     path: '/digestive-system',
     name: 'Aparato digestivo',
-    component: () => import('../views/Taxonomy.vue')
+    component: () => import('../views/Digestive.vue')
   },
   {
     path: '/reproductive-system',
     name: 'Aparato reproductor',
-    component: () => import('../views/Taxonomy.vue')
+    component: () => import('../views/Reproductive.vue')
   },
   {
     path: '/musculoskeletal-system',
     name: 'Aparato locomotor',
-    component: () => import('../views/Taxonomy.vue')
+    component: () => import('../views/Meskeletal.vue')
   },
   {
     path: '/integumentary-system',
     name: 'Sistema integumentario',
-    component: () => import('../views/Taxonomy.vue')
+    component: () => import('../views/Integumentary.vue')
   },
   {
     path: '/nervous-system',
     name: 'Sistema nervioso',
-    component: () => import('../views/Taxonomy.vue')
+    component: () => import('../views/Nervous.vue')
   },
   {
     path: '/lymphatic-system',
     name: 'Sistema linfálico-inmune',
-    component: () => import('../views/Taxonomy.vue')
+    component: () => import('../views/Lymphatic.vue')
   },
   {
     path: '/myths',
     name: 'Mitos e historias',
-    component: () => import('../views/Taxonomy.vue')
+    component: () => import('../views/Myths.vue')
   },
 ]
 

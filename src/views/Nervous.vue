@@ -3,7 +3,7 @@
   <div class="wrap xs-1-12 md-2-11">
     <Header/>
     <div class="contain">
-      <h1>Aparato circulatorio</h1>
+      <h1>Sistema nervioso</h1>
       <Markdown :source="home" class="setp"/>
       <router-link to="/" tag="button" class="button-back">Atrás</router-link>
     </div>
@@ -19,7 +19,7 @@ import home_md from '@/markdown/example.md';
 import $ from 'jquery';
 
 export default {
-  name: 'Circulatory',
+  name: 'Nervous',
   data: function() {
     return {
       home: home_md,

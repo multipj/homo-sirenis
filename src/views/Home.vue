@@ -4,9 +4,10 @@
     <Header/>
     <div class="contain">
       <h1>Inicio</h1>
-      <Index/>
-      <br/>
-      <Markdown :source="home" class="home"/>
+      <div class="content-flex">
+        <Index/> 
+        <Markdown :source="home" class="home setp"/>
+      </div>
     </div>
     
   </div>
@@ -41,4 +42,7 @@ export default {
 </script>
 
 <style lang="scss">
+.home {
+  column-count: 1!important;
+}
 </style>
