@@ -1,0 +1,9 @@
+Al igual que los juveniles besugos, en los sirenos se presenta el hermafroditismo simultáneo, lo que significa que en ellos se da la presencia normal de órganos reproductivos funcionales de los dos sexos, masculino y femenino. A diferencia del sargo y la anguila (Que nacen con un sexo y pueden cambiarlo a medida que crecen) los sirenos nacen con ambos sexos y los mantiene en su etapa adulta. A pesar de ello, no pueden autofecundarse. En contraposición, las sirenas, sólo presentan el órgano reproductor femenino. 
+
+Los testículos son internos, cilíndricos, ovalados y se encuentran en la parte inferior de la cavidad corporal (en los inmaduros son apenas una masa blanquecina poco definida). Se encargan de la producción no sólo de espermatozoides, sino también de las hormonas que se ocupan del control de diversos procesos corporales (entre ellos el desarrollo del miembro masculino) así como del ciclo reproductor.
+
+Su reproducción es ovovípara con fecundación interna; Más específicamente, los embriones se desarrollan dentro de huevos bentónicos que flotan en la placenta dentro del útero del sireno. El vitelio de los huevos absorbe los nutrientes de la placenta a través de una membrana porosa, y los embriones se conectan a éste a través de un filamento umbilical del mismo material que la membrana transparente que forma el huevo.
+
+Cuando el vitelio absorbe suficientes nutrientes (3 meses), los huevos son expulsados y continúan la mitad de su desarrollo fuera del vientre uterino.
+
+Finalmente, cuando el embrión crece y consume todo el vitelio, se rompe la membrana del huevo, entonces sufren una metamorfosis y continúa su crecimiento alimentándose de la lactancia de las glándulas mamarias de sus padres/madres.

@@ -4,7 +4,7 @@
     <Header/>
     <div class="contain">
       <h1>Sistema nervioso</h1>
-      <Markdown :source="home" class="setp"/>
+      <Markdown :source="md" class="setp"/>
       <router-link to="/" tag="button" class="button-back">Atrás</router-link>
     </div>
     
@@ -15,14 +15,14 @@
 import Bar from "@/components/Bar.vue";
 import Header from "@/components/Header.vue";
 import Markdown from 'vue3-markdown-it';
-import home_md from '@/markdown/example.md';
+import md from '@/markdown/nervous.md';
 import $ from 'jquery';
 
 export default {
   name: 'Nervous',
   data: function() {
     return {
-      home: home_md,
+      md: md,
     }
   },
   methods: {
