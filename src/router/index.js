@@ -56,6 +56,11 @@ const routes = [
     name: 'Mitos e historias',
     component: () => import('../views/Myths.vue')
   },
+  {
+    path: '/society',
+    name: 'Sociedades y costumbres',
+    component: () => import('../views/Costumbres.vue')
+  },
 ]
 
 const router = createRouter({

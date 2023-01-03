@@ -2,19 +2,20 @@
     <div class="indice">
         <ul>
             <li><router-link to="/taxonomy" tag="button">Taxonomía</router-link></li>
-            <li>Anatomía y fisiología
+            <li><div style="padding: 2px 5px;">Anatomía y fisiología</div>
                 <ul>
                     <li><router-link to="/respiratory-system" tag="button">Aparato respiratorio</router-link></li>
                     <li><router-link to="/circulatory-system" tag="button">Aparato circulatorio</router-link></li>
                     <li><router-link to="/digestive-system" tag="button">Aparato digestivo</router-link></li>
                     <li><router-link to="/reproductive-system" tag="button">Aparato reproductor</router-link></li>
                     <li><router-link to="/musculoskeletal-system" tag="button">Aparato locomotor</router-link></li>
-                    <li><router-link to="/integumentary-system" tag="button">Sistema integumentario</router-link></li>
+                    <li><router-link to="/integumentary-system" tag="button">Sistema tegumentario</router-link></li>
                     <li><router-link to="/nervous-system" tag="button">Sistema nervioso</router-link></li>
                     <li><router-link to="/lymphatic-system" tag="button">Sistema linfálico-inmune</router-link></li>
                 </ul>
             </li>
             <li><router-link to="/myths" tag="button">Mitos e historias</router-link></li>
+            <li><router-link to="/society" tag="button">Sociedades y costumbres</router-link></li>
         </ul>
     </div>
 </template>

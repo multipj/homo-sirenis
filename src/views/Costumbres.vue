@@ -3,9 +3,10 @@
   <div class="wrap xs-1-12 md-2-11">
     <Header/>
     <div class="contain">
-      <h1>Taxonomía</h1>
-      <Markdown :source="md" class="setp tax"/>
+      <h1>Sociedad y costumbres</h1>
+      <Markdown :source="md" class="setp"/>
       <router-link to="/" tag="button" class="button-back">Atrás</router-link>
+      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     </div>
     
   </div>
@@ -15,11 +16,11 @@
 import Bar from "@/components/Bar.vue";
 import Header from "@/components/Header.vue";
 import Markdown from 'vue3-markdown-it';
-import md from '@/md/taxonomy.md';
+import md from '@/md/costumbres.md';
 import $ from 'jquery';
 
 export default {
-  name: 'Taxonomy',
+  name: 'Circulatory',
   data: function() {
     return {
       md: md,
@@ -36,12 +37,4 @@ export default {
 </script>
 
 <style lang="scss">
-.tax {
-  column-count: 1;
-}
-
-.tax img {
-    width: 141px;
-}
-
 </style>

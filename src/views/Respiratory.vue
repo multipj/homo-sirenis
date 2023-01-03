@@ -15,7 +15,7 @@
 import Bar from "@/components/Bar.vue";
 import Header from "@/components/Header.vue";
 import Markdown from 'vue3-markdown-it';
-import md from '@/markdown/respiratory.md';
+import md from '@/md/respiratory.md';
 import $ from 'jquery';
 
 export default {

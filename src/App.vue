@@ -1,21 +1,38 @@
 <template>
+  <div class="shadow"></div>s
   <router-view/>
 </template>
 
 <script>
 import Home from "@/views/Home.vue"
+
 export default {
   name: 'App',
-  components: { Home }
+  components: { Home },
+  mounted() {}
 }
 </script>
 
 <style lang="scss">
+.il {
+  float: left; 
+  margin: 0px 15px 15px 0px;
+}
+
+.ir {
+  float:right; 
+  margin: 0px 0px 15px 15px;
+}
+
 @import "@/styles/grid/grid.xs.scss";
 @import "@/styles/grid/grid.sm.scss";
 @import "@/styles/grid/grid.md.scss";
 @import "@/styles/grid/grid.lg.scss";
 @import "@/styles/grid/grid.default.scss";
+
+.part {
+    margin-bottom: 15px;
+}
 
 @font-face {
   font-family: "Chaz Condensed";
@@ -86,13 +103,12 @@ a {
 @media (min-width:   0px) { .setp { column-count: 1; } }
 @media (min-width: 768px) { .setp { column-count: 2; } }
 .setp {
-  img {
+  img  {
     width: 50%;
-    float: left;
-    margin: 0px 15px 15px 0px;
   }
 }
 
+.magnifying-glass { background-size: 320%!important; }
 
 
 .wrap {
@@ -135,8 +151,14 @@ a {
 }
 
 h2 {
-    margin-top: 0px;
+    margin-top: 0;
+    font-size: 26px;
+    font-family: Beaufort,serif;
+    font-style: italic;
+    letter-spacing: -0.5px;
 }
+
+
 
 
 </style>

@@ -18,7 +18,7 @@ import Bar from "@/components/Bar.vue";
 import Index from "@/components/Index.vue";
 import Header from "@/components/Header.vue";
 import Markdown from 'vue3-markdown-it';
-import home_md from '@/markdown/home.md';
+import home_md from '@/md/home.md';
 import $ from 'jquery';
 
 export default {

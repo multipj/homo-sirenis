@@ -1,0 +1,3 @@
+Al igual que los juveniles Pagellus bogaraveo (besugos), en los sirenos se presenta el hermafroditismo simultáneo, lo que significa que en ellos se da la presencia normal de órganos reproductivos funcionales de los dos sexos, masculino y femenino. 
+
+A diferencia del sargo y la anguila (Que nacen con un sexo y pueden cambiarlo a medida que crecen) los sirenos nacen con ambos sexos y los mantiene en su etapa adulta. A pesar de ello, no pueden autofecundarse. En contraposición, las sirenas, sólo presentan el órgano reproductor femenino. 

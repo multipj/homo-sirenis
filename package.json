@@ -9,9 +9,12 @@
     "deploy": "npm run build && @powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./deploy.ps1"
   },
   "dependencies": {
+    "@websitebeaver/vue-magnifier": "^1.0.0",
     "core-js": "^3.8.3",
-    "jquery": "^3.6.0",
+    "jquery": "^3.6.1",
+    "marked": "^4.1.1",
     "vue": "^3.2.13",
+    "vue-image-magnifier": "^0.2.1",
     "vue-router": "^4.0.13",
     "vue3-markdown-it": "^1.0.10"
   },

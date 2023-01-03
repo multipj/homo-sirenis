@@ -1,6 +1,6 @@
 <template>
   <Bar/>
-  <div class="wrap md-2-11 sm-1-12 xs-1-12 ">
+  <div class="wrap xs-1-12 md-2-11 "><!--md-2-11 sm-1-12 xs-1-12 -->
     <Header/>
     <div class="contain">
       <h1>Aparato locomotor</h1>
@@ -15,7 +15,7 @@
 import Bar from "@/components/Bar.vue";
 import Header from "@/components/Header.vue";
 import Markdown from 'vue3-markdown-it';
-import home_md from '@/markdown/meskeletal.md';
+import home_md from '@/md/meskeletal.md';
 import $ from 'jquery';
 
 export default {
@@ -36,10 +36,15 @@ export default {
 </script>
 
 <style lang="scss">
-.meskeletal {
-  column-count: 1;
-  img {
-    width: 30%;
+    img {
+      width: 40%;
+    }
+/*.meskeletal {
+  column-count: 2;
+
+
+  @media (min-width: 1200px) { 
+
   }
-}
+}*/
 </style>
