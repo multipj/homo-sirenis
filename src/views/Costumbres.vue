@@ -6,7 +6,6 @@
       <h1>Sociedad y costumbres</h1>
       <Markdown :source="md" class="setp"/>
       <router-link to="/" tag="button" class="button-back">Atrás</router-link>
-      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     </div>
     
   </div>
