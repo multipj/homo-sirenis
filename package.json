@@ -6,8 +6,10 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint",
-    "deploy-gh": "npm run build && git add -f dist && git commit -m 'new deployment' && git push -f git@github.com:dkaerit/homo-sirenis.git master:gh-pages",
-    "deploy-gl": "npm run build && git add -f dist && git commit -m 'new deployment' && git push -f git@github.com:dkaerit/homo-sirenis.git master:gl-pages"
+
+    "deploy-gl": "npm run build && git -C dist init && git -C dist add -A && git -C dist commit -m 'new deployment' && git -C dist push -f git@github.com:dkaerit/homo-sirenis.git master:gh-pages",
+
+    "deploy-gl": "npm run build && git -C dist init && git -C dist add -A && git -C dist commit -m 'new deployment' && git -C dist push -f git@github.com:dkaerit/homo-sirenis.git master:gl-pages"
   },
   "dependencies": {
     "@websitebeaver/vue-magnifier": "^1.0.0",
