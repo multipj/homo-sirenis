@@ -4,7 +4,7 @@ pages:
     - mkdir .public
     - cp -r * .public
     - mv .public public
-    artfacts:
+    artifacts:
       paths:
       - public
   only:
