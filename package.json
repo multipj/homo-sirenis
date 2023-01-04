@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "npm run build && @powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./deploy.ps1"
+    "deploy-gh": "npm run build && @powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./deploy.ps1",
+    "deploy-gl": "npm run build && @powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./deploy.ps1"
   },
   "dependencies": {
     "@websitebeaver/vue-magnifier": "^1.0.0",
