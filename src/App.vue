@@ -106,7 +106,11 @@ a {
   img  {
     width: 50%;
   }
+  .parte {
+    break-inside: avoid;
+  }
 }
+
 
 .magnifying-glass { background-size: 320%!important; }
 
