@@ -6,8 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint",
-    "deploy": "git subtree push --prefix dist git@gitlab.com:dkaerit/homo-sirenis.git gl-pages",
-    "publish": "npm tun build && npm run deploy"
+    "deploy": "git subtree push --prefix dist git@github.com:multipj/homo-sirenis.git gh-pages",
+    "publish": "npm run build && npm run deploy"
   },
   "dependencies": {
     "core-js": "^3.8.3",
