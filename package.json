@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint",
-    "deploy-gh": "npm run build && @powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./deploy.ps1",
-    "deploy-gl": "npm run build && @powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./deploy.ps1"
+    "deploy-gh": "npm run build && git add -f dist && git commit -m 'new deployment' && git push -f git@github.com:dkaerit/homo-sirenis.git master:gh-pages",
+    "deploy-gl": "npm run build && git add -f dist && git commit -m 'new deployment' && git push -f git@github.com:dkaerit/homo-sirenis.git master:gl-pages"
   },
   "dependencies": {
     "@websitebeaver/vue-magnifier": "^1.0.0",

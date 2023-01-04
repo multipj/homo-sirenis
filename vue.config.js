@@ -17,6 +17,9 @@ module.exports = defineConfig({
       }
     }
   },
+  pluginOptions: {
+    '@vue/cli-plugin-babel': {}
+  },
   configureWebpack: {
     module: {
       rules: [
