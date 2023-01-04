@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint",
-    "deploy-gl": "@powershell -NoProfile -ExecutionPolicy Unrestricted -Command ./deploy-gl.ps1"
+    "deploy": "git subtree push --prefix dist git@gitlab.com:dkaerit/homo-sirenis.git gl-pages",
+    "publish": "npm tun build && npm run deploy"
   },
   "dependencies": {
     "@websitebeaver/vue-magnifier": "^1.0.0",
