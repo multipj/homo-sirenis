@@ -1,9 +1,2 @@
+# The Docker image that will be used to build your app
 image: alpine:latest
-pages:
-  stage: deploy
-  script:
-    - echo ''
-  artifacts:
-    paths:
-      - public
-  only: master
