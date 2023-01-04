@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhomo_sirenis"]=self["webpackChunkhomo_sirenis"]||[]).push([[218],{218:function(e,s,a){a.r(s),s["default"]="De cintura para abajo es la dermis la que contiene las escamas, que son de tipo cicloides muy diminutas en la zona de la cola, y que están profundamente incrustadas en una piel gruesa. Esta parte del homo sirenis recuerda más al de la anguilas, pues sus escmas no son nada rasposas, y en cambio se sienten suaves al tacto y tan pequeñas que lucen como diminutos puntitos.\r\n"}}]);
+//# sourceMappingURL=218.4412b8c3.js.map
