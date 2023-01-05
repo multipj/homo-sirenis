@@ -3,7 +3,7 @@
   <div class="wrap xs-1-12 md-2-11">
     <Header/>
     <div class="contain">
-      <h1>Sistema linfálico-inmune</h1>
+      <h1>Sistema linfático-inmune</h1>
       <Markdown :source="md" class="setp"/>
       <router-link to="/" tag="button" class="button-back">Atrás</router-link>
     </div>

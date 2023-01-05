@@ -6,7 +6,7 @@ Los tritones son expertos en la construcción y en el mantenimiento de las estru
 
 Además de trabajar juntos, las sirenas y tritones también disfrutan de tiempo de ocio y recreación. Ellos practican deportes submarinos, como el buceo y el nado sincronizado, y también disfrutan de actividades artísticas como la música y la danza. La música es muy importante para esta sociedad submarina, ya que es una forma en la que las sirenas pueden compartir su canto con los demás y crear una conexión emocional con sus vecinos.
 
-añadir jerarquía social, un sistema económico y una estructura familiar
+(añadir jerarquía social, un sistema económico y una estructura familiar)
 
 ### 1.1. Sociedades nómadas
 

@@ -17,13 +17,13 @@
         </div>
 
         <div class="parte">
-          <h2>2. La hematosis</h2>
+          <h2>2. La hematosis en diversas especies</h2>
 
           <p>
-            La forma de obtener oxígeno. Antes de explicar la forma en que alternan la
-            respiración por branquias o por pulmones en el caso del homo sirenis, es
-            preciso diferenciar las distintas formas de obtener oxígeno entre las
-            distintas especies branquiales:
+            La hematosis es la forma de obtener oxígeno. Antes de explicar la hematosis en
+            el Homo Sirenis y la forma en que alternan la respiración por branquias o por
+            pulmones, es preciso diferenciar las distintas formas de obtenención de
+            oxígeno entre las distintas especies branquiales:
           </p>
 
           <p>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="parte">
-          <h2>3. Dentro del agua</h2>
+          <h2>3. La respiración dentro del agua</h2>
 
           <p>
             En el caso del homo sirenis, al igual que los tiburones, poseen aberturas
@@ -65,7 +65,7 @@
         </div>
 
         <div class="parte">
-          <h2>4. Fuera del agua</h2>
+          <h2>4. La respiración fuera del agua</h2>
 
           <p>
             Cuando el homo sirenis se encuetra fuera del agua, el homo sirenis dispone de
@@ -91,7 +91,7 @@
         </div>
 
         <div class="parte">
-          <h2>5. Así evitan la descompresión del buzo</h2>
+          <h2>5. Mecanismos de protección contra la descompresión</h2>
 
           <p>
             El homo sirenis utiliza el mismo mecanismo que otros mamíferos marinos para no
@@ -99,31 +99,35 @@
             emergen demasiado rápido. Esto se debe a la presencia de dos regiones
             pulmonares diferentes sumado a la estructura de sus pechos y su caja torácica
             cartilaginosa que permite que sus pulmones se compriman mientras se encuentran
-            bajo el agua como lo hacen los cetáceos, además, sumado a esto, poseen un
-            mecanismo especial (esfínteres pulmonares) para evitar que la sangre riegue
-            los pulmones durante la inmersión, al igual que las tortugas. De esta forma
-            evitan solubilizar el nitrógeno que les provocaría el embolismo.
+            bajo el agua como lo hacen los cetáceos.
           </p>
 
           <p>
-            Cuando el cuerpo se somete a presión, el poco aire que quedó en los pulmones
-            es expulsado tras abandonar la superficie, dejando una región medio vacía,
-            separada de otra que se encuentra colapsada, a compresión. La sangre fluye
-            exclusivamente a través de la región colapsada, lo que causa lo que se
-            denomina "una falta de coincidencia entre la ventilación y la perfusión", que
-            permite que el oxígeno y el dióxido de carbono sean absorbidos por el torrente
-            sanguíneo, a la vez que minimiza o evita el intercambio de nitrógeno. De esta
-            manera se protegen de la ingesta de cantidades excesivas de nitrógeno y, por
-            lo tanto, se minimiza el riesgo del trastorno de descomprensión.
+            Además, sumado a esto, poseen un mecanismo especial (esfínteres pulmonares)
+            que evitan el riego de sngre a los pulmones durante la inmersión, al igual que
+            las tortugas. De esta forma evitan solubilizar el nitrógeno que les provocaría
+            el embolismo.
+          </p>
+
+          <p>
+            El primer mecanismo funciona de la siguiente manera: Cuando los tritones se
+            sumergen bajo el agua y el cuerpo se somete a presión, el aire en sus pulmones
+            es expulsado y una región de sus pulmones se comprime. Esto permite lo que se
+            conoce como
+            <i>una falta de coincidencia entre la ventilación y la perfusión</i> donde la
+            sangre fluya únicamente a través de la región comprimida de los pulmones,
+            impidiendo así, un intercambio de nitrógeno, y permitiendo que el oxígeno y el
+            dióxido de carbono sean absorbidos por la sangre. Esto protege a los tritones
+            del trastorno de descompresión al evitar la ingesta excesiva de nitrógeno.
           </p>
 
           <p>
             A pesar de no tener problemas con el intercambio de gases en el desceneso a
             una profundidad de máximo mil metros, son incapaces de descender a
             profundidades abisales (seis veces mayor) debido a la fuerte presión que
-            ejerce en sus cuerpos, comprimiendo sus cráneos que no están preparados para
-            soportarlo. Además, de ser incapaces de sobrevivir con el escaso oxígeno de
-            las profundidades y la dificultad para hallar comida.
+            ejerce en su estructura ósea, que no está preparada para soportarlo. Además,
+            de ser incapaces de sobrevivir con el escaso oxígeno de las profundidades y la
+            dificultad para hallar comida.
           </p>
         </div>
       </div>

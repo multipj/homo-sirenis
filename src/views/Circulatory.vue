@@ -8,11 +8,11 @@
         <div class="parte">
           <h2>1. Oxigención de la sangre</h2>
           <p>
-            El corazón del homo sirenis es similar al de los humns pues tienen un sistema
+            El corazón del homo sirenis es similar al de los humnos pues tienen un sistema
             circulatorio con dos aurículas y dos ventrículos. La aurícula izquierda es la
             encargada de recibir la sangre pobre en oxígeno del cuerpo y el ventrículo
             izquierdo es el encargado de bombearla hacia las branquias y los pulmones para
-            su oxigenación. La arteria pulmo-branquial es una vía que sale del ventrículo
+            su oxigenación. <b>La arteria pulmo-branquial</b> es una vía que sale del ventrículo
             izquierdo y se bifurca para conducir la sangre pobre en oxígeno tanto a las
             branquias como a los pulmones. Sin embargo la sangre que vuelve de los
             pulmones, conflue de nuevo en la misma arteria.
@@ -23,15 +23,12 @@
             completamente la sangre que llega a través de la arteria pulmo-branquial.
             Cuando los tritones están en la superficie, las branquias permanecen inactivas
             y la sangre mezclada por la oxigenación de los pulmones (ahora sí activos) y
-            la sangre pobre en oxigeno, se mantiene mixta y es más difícil para los
+            la sangre pobre en oxigeno, se vuelve mixta y es más difícil para los
             tritones mantenerse oxigenados respirando aire.
           </p>
 
           <p>
-            Por eso, compensan dicha carencia con una respiración cutánea de manera
-            complementaria, pues no es una vía de respiración principal. De esta manera,
-            la piel de los tritones ayudan a intercambiar gases con el aire o el agua, y
-            así poder obtener una cantidad adicional de oxígeno.
+            Por eso, compensan dicha carencia con una respiración cutánea. Esta última forma de respiración es secundaria y se utiliza principalmente para obtener una cantidad adicional de oxígeno. A través de la piel, los tritones intercambian gases con el aire o el agua, permitiéndoles obtener un suministro adicional de oxígeno. Aunque no es su forma principal de respiración, esta característica les permite sobrevivir en situaciones en las que no tienen acceso a suficiente oxígeno como es a través de sus pulmones.
           </p>
 
           <p>

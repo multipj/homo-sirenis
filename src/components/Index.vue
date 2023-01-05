@@ -11,7 +11,7 @@
                     <li><router-link to="/musculoskeletal-system" tag="button">Aparato locomotor</router-link></li>
                     <li><router-link to="/integumentary-system" tag="button">Sistema tegumentario</router-link></li>
                     <li><router-link to="/nervous-system" tag="button">Sistema nervioso</router-link></li>
-                    <li><router-link to="/lymphatic-system" tag="button">Sistema linfálico-inmune</router-link></li>
+                    <li><router-link to="/lymphatic-system" tag="button">Sistema linfático-inmune</router-link></li>
                 </ul>
             </li>
             <li><router-link to="/myths" tag="button">Mitos e historias</router-link></li>
