@@ -66,8 +66,6 @@
             calor, y además son <b>homeotermos</b>, es decir, su termoregulación se basa
             en procesos fisiológicos.
           </p>
-        </div>
-        <div class="parte">
           <p>
             Cuando exponen a temperaturas muy altas (pero no letales) producen proteínas
             de choque térmico o de estrés. Las proteínas de choque térmico se sintetizan
@@ -87,9 +85,27 @@
             haciendo que su tacto torne resbaloso fuera del agua.
           </p>
         </div>
+        <div class="parte">
+          
+          
+        </div>
 
         <div class="parte">
-          <h2>4. La comunicación interespecie</h2>
+          <h2>4. Sistema auditivo</h2>
+          <p>
+            El homo sirenis posee un sistema auditivo parecido al humano dividido en tres partes: 
+            <br><br>
+            El <b>oído externo. </b> Tiene un sistema de cierre de los conductos auditivos externos más eficiente similar al de los delfines y otros animales marinos para proteger el oído del agua. Sin embargo, como esto disminuye su sensibilidad auditiva, lo compensan con la presencia de ampollas de Lorenzini en la piel del conducto auditivo externo, unas células sensoriales  especializadas, también presentes en los tiburones, que permiten detectar campos electromagnéticos y vibraciones en el agua.
+            <br><br>
+            El <b>oído medio: </b> Se compone de tres huesos pequeños llamados huesecillos, que se llaman martillo, yunque y estribo, y un espacio llamado tímpano. Para soportar altas presiones, además de poseer una mayor cantidad de líquido cefaloraquídeo, estos 3 huesos tienen una estructura ósea más densa que el humano incluyendo una mayor cantidad de minerales como el calcio, así como una mayor concentración de colágeno (una proteína que da fuerza y elasticidad al tejido conectivo). 
+            <br><br>
+            El <b>oído interno: </b> La cochlea es similar a la de los humanos, con la presenia de células ciliadas (células sensoriales en forma de cilindro que se encuentran en el vestíbulo, una parte del oído interno que se encarga del equilibrio y la orientación), pero con la adición de esterocilios en las paredes del oído medio, que lo hace sensible a los sonidos agudos dentro del agua, paliando la posible falta de sensibilidad auditiva.
+          </p>
+          
+        </div>
+
+        <div class="parte">
+          <h2>5. La comunicación interespecie</h2>
           <p>
             El homo sirenis uede utilizar señales visuales y auditivas para comunicarse
             con otros seres acuáticos. Los tritones y sirenas también pueden utilizar el
@@ -103,6 +119,9 @@
             una gran capacidad auditiva. Del mismo modo, han aprendido a reproducir dichos
             sonidos, y para responder a éstos lo hacen mediante pulsos telepáticos, los
             cuales también usan para desorientar bancos de peces en sus cacerías.
+          </p>
+          <p>
+            Para poder formar palabras y orciones como el lenguaje humano hablado, el homo sirenis bajo el agua es cpaz de emitir dicho mensaje mediate ecos mágicos que reverberan en el algua con el uso de su magia. Ésto lo combinan con su telepatía para transmitir dichos mensajes de forma más clara.
           </p>
         </div>
       </div>
