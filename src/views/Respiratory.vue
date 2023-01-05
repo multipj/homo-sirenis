@@ -34,7 +34,7 @@
             movimiento para poder hacer pasar el agua a través de ellas. Y finalmente
             están los <b>pulpos</b> que poseen un sifón para controlar la succión y
             expulsión del agua (y que además actúa como válvula) en una cavidad donde se
-            encuentran las branquias.
+            encuentran las branquias (el ctenidio en su caso).
           </p>
         </div>
 
@@ -45,9 +45,7 @@
             En el caso del homo sirenis, al igual que los tiburones, poseen aberturas
             desnudas en la zona del cuello por las que se filtra el agua, sin embargo, las
             branquias no se encuentran pegadas, debajo de éstas, sino que dichas aberturas
-            confluyen en una especie de sacos cilindricos y alargados que descienden
-            paralelos al esófago, donde se hallan las branquias, y cuya entrada es
-            gestionada por sifones que succionan y expulsan el agua como los pulpos.
+            confluyen en una especie de cámaras dentro de la caja torácica, donde se hayan los ctenidio (sus branquias), una en cada cámara, y cuya entrada es gestionada por sifones que succionan y expulsan el agua como los pulpos.
           </p>
 
           <p>
