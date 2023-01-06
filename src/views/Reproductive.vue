@@ -17,24 +17,26 @@
           </p>
 
           <p>
-            A diferencia del sargo y la anguila (Que nacen con un sexo y pueden cambiarlo
-            a medida que crecen) los sirenos nacen con ambos sexos y los mantiene en su
-            etapa adulta. A pesar de ello, no pueden autofecundarse. En contraposición,
-            las sirenas, sólo presentan el órgano reproductor femenino.
+            Sin embargo, este hermafroditas simultáneos, difiere del sargo y la anguila,
+            que nacen con un solo sexo, pero pueden cambiarlo a medida que crecen. Por lo
+            que en el caso de los sirenos, ambos órganos reproductivos se mantienen desde
+            su nacimiento y a lo largo de su vida adulta. No obstante, aunque poseen
+            órganos reproductivos funcionales de ambos sexos, no pueden reproducirse por
+            sí mismos, pues no pueden autofecundarse. Por otro lado, las sirenas son
+            monosexuadas, es decir, sólo tienen el órgano reproductor femenino.
           </p>
         </div>
 
         <div class="parte">
           <p>
-            Tanto sirenos como sirenas poseen un vulva que abre camino al cuello del
-            útero. Sin embargo, mientras que el sexo femenino posee el clítoris en la zona
-            superior de la vulva, los sirenos, en cambio, no, y en su lugar poseen un
-            orificio por el que asoma muy mínimamente la punta el órgano masculino
-            retráctil (El cual tiene parecido al clítoris, como un botóm, cuando el
-            miembro viril está escondido) y el cual asoma por éste cuando se pone en
-            erección, lo que, a diferencia de la erección humana, los miembros de los
-            sirenos no ganan dureza debido a su forma lenguada y por su capacidad de
-            contorsionarse y doblarse.
+            Tanto sirenos como sirenas posee una vulva que da acceso al cuello del útero,
+            pero los sirenos, a diferencia de las sirenas, no tienen un clítoris en la
+            parte superior de la vulva. En su lugar, tienen un orificio por el que apenas
+            asoma la punta de su órgano reproductor masculino retráctil, que es similar al
+            clítoris en su apariencia cuando está escondido. Cuando este órgano se pone en
+            erección, se hace visible a través de este orificio, aunque a diferencia de la
+            erección humana, los miembros de los sirenos no se endurecen debido a su forma
+            lenguada y a su capacidad para contorsionarse y doblarse.
           </p>
           <img src="https://i.imgur.com/s9bbjXW.png" class="ir" />
           <p>
@@ -51,7 +53,7 @@
 
         <div class="parte">
           <h2 id="2-ovoviviparismo">2. Ovoviviparismo</h2>
-          
+
           <p>
             Su reproducción es ovovivípara con fecundación interna; Más específicamente,
             los embriones se desarrollan dentro de huevos bentónicos que flotan en la

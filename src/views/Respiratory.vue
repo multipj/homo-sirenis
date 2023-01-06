@@ -45,7 +45,9 @@
             En el caso del homo sirenis, al igual que los tiburones, poseen aberturas
             desnudas en la zona del cuello por las que se filtra el agua, sin embargo, las
             branquias no se encuentran pegadas, debajo de éstas, sino que dichas aberturas
-            confluyen en una especie de cámaras dentro de la caja torácica, donde se hayan los ctenidio (sus branquias), una en cada cámara, y cuya entrada es gestionada por sifones que succionan y expulsan el agua como los pulpos.
+            confluyen en una especie de cámaras dentro de la caja torácica, donde se hayan
+            los ctenidio (sus branquias), una en cada cámara, y cuya entrada es gestionada
+            por sifones que succionan y expulsan el agua como los pulpos.
           </p>
 
           <p>
@@ -60,24 +62,24 @@
             si poseyeran un sensor interno que detectara el momento en que su cuerpo se
             expone a un aumento de presión durante el descenso al fondo marino.
           </p>
-        </div>
-
-        <div class="parte">
           <h2>4. La respiración fuera del agua</h2>
-
           <p>
             Cuando el homo sirenis se encuetra fuera del agua, el homo sirenis dispone de
             un mecanismo interno que se encarga de segregar una sustancia hipertónica
             (sustancia oxigenada con solutos) en los sacos alargados donde se hallan las
             branquias permanecen hidratadas y por esta razón no se secan una vez se
             encuentra fuera del agua, pudiendo permanecer por bastante tiempo fuera de
-            dicho medio sin que se estropeen. Como tienen que producir y secretar más
-            sustancia hipertónica para renovarla, es importante tener en cuenta que la
-            producción y secreción de esta sustancia requiere de energía y recursos del
-            cuerpo, por lo que debe equilibrar esta necesidad con la necesidad de
-            mantenerse hidratado y evitar la deshidratación.
+            dicho medio sin que se estropeen.
           </p>
+        </div>
 
+        <div class="parte">
+          <p>
+            Como tienen que producir y secretar más sustancia hipertónica para renovarla,
+            es importante tener en cuenta que la producción y secreción de esta sustancia
+            requiere de energía y recursos del cuerpo, por lo que debe equilibrar esta
+            necesidad con la necesidad de mantenerse hidratado y evitar la deshidratación.
+          </p>
           <p>
             Un dato curioso es que las hendiduras del cuello del sireno o sirena conectan
             tanto con la faringe como con los sacos branquiales, y además, los orificios
@@ -89,15 +91,15 @@
         </div>
 
         <div class="parte">
-          <h2>5. Mecanismos de protección contra la descompresión</h2>
+          <h2>5. Mecanismos contra la descompresión</h2>
 
           <p>
             El homo sirenis utiliza el mismo mecanismo que otros mamíferos marinos para no
-            sufrir la misma patología de descompresión que afecta a los buceadores que
-            emergen demasiado rápido. Esto se debe a la presencia de dos regiones
-            pulmonares diferentes sumado a la estructura de sus pechos y su caja torácica
-            cartilaginosa que permite que sus pulmones se compriman mientras se encuentran
-            bajo el agua como lo hacen los cetáceos.
+            sufrir la patología de descompresión del buzo tras emerger demasiado rápido.
+            Esto se debe a la presencia de dos regiones pulmonares diferentes sumado a la
+            estructura de sus pechos y su caja torácica cartilaginosa que permite que sus
+            pulmones se compriman mientras se encuentran bajo el agua como lo hacen los
+            cetáceos.
           </p>
 
           <p>
